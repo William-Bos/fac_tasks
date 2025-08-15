@@ -44,6 +44,22 @@ else{
     console.log("REPROVADO")
 }
 */
+
+/*
+for( let numero = 1; numero <= 10; numero++){
+    console.log(numero)
+    }
+*/
+
+
+/*
+let numero= 0
+while(numero <=10){
+    console.log(numero);
+    numero++
+}
+*/
+
     
 
 
